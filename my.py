@@ -1,2 +1,1 @@
-print("you're not cool")
-
+print("loves you")
